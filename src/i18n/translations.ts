@@ -1,32 +1,26 @@
 export const translations = {
-  'en': {
-    nav: {
+  en: {
+    navigation: {
+      home: 'Home',
       about: 'About',
-      projects: 'Projects',
-      blog: 'Blog',
-      contact: 'Contact',
-      signIn: 'Sign In',
-      contactMe: 'Contact Me'
+      skills: 'Skills',
+      career: 'Career'
     },
     home: {
       title: 'Welcome to My Portfolio',
-      description: 'I am a proactive programmer with 3 years of experience in government and banking projects.'
+      description: 'A showcase of my work and skills'
     },
     about: {
       title: 'About Me',
-      description: 'I am a proactive programmer with 3 years of experience in government and banking projects, delivering robust solutions for transport and core banking systems.'
+      description: 'Learn more about my background and experience'
     },
-    projects: {
-      title: 'My Projects',
-      description: 'Explore my latest work and achievements in software development.'
+    skills: {
+      title: 'Technical Skills',
+      description: 'A comprehensive list of my technical skills and expertise'
     },
-    blog: {
-      title: 'Blog',
-      description: 'Thoughts and insights on technology and development.'
-    },
-    contact: {
-      title: 'Contact Me',
-      description: 'Get in touch with me for collaboration or questions.'
+    career: {
+      title: 'Career & Education',
+      description: 'My professional experience and educational background'
     }
   }
 }; 
